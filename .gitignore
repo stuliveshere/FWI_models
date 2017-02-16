@@ -86,4 +86,7 @@ ENV/
 .spyderproject
 
 # ignore models
-# models/**
+models/**
+*.txt
+*.bin
+
